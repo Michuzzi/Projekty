@@ -1,0 +1,10 @@
+﻿  About.cpp
+  Game.cpp
+  MyForm.cpp
+  Poczatek.cpp
+c:\users\michu\downloads\downloads\project1\project1\project1\MyForm.h(779): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+  Project1.cpp
+  Generating Code...
+c:\users\michu\downloads\downloads\project1\project1\project1\game.cpp(37): warning C4700: uninitialized local variable 'x' used
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  Project1.vcxproj -> C:\Users\michu\Downloads\Downloads\Project1\Project1\Debug\Project1.exe
